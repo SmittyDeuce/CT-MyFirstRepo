@@ -8,3 +8,5 @@ Tooltime: which text editor have you been loving at Coding Temple?
 Dive Deep: what makes git checkout -b so handy?
     what makes it so handy is that creates a new branch while also
     switching to it.
+
+    trying to create a conflict
