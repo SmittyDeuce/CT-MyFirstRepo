@@ -9,4 +9,6 @@ Dive Deep: what makes git checkout -b so handy?
     what makes it so handy is that creates a new branch while also
     switching to it.
 
-    making changes to see what happens when i pr on github
+    making changes to see what happens when i pr on github, 
+    trying to create a conflict, was succesful.
+    currently editing text from github PR
