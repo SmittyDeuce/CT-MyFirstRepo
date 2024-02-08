@@ -4,3 +4,7 @@ Favorite Coding temple moment:
 
 Tooltime: which text editor have you been loving at Coding Temple?
     VS code has been the best for me
+
+Dive Deep: what makes git checkout -b so handy?
+    what makes it so handy is that creates a new branch while also
+    switching to it.
